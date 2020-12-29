@@ -4,8 +4,8 @@
     "occupation": "React / JavaScript / Java Developer",
     "description": "Full Stack Developer with a BS in Software Engineering, 2020.",
     "image": "pp.jpg",
-    "bio": "My name is Brandon, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "My name is Brandon Henry and I'm a Full Stack ReactJS Developer. I received my bachelors in Software Engineering in 2020 and have been developing for over 5 years. My various professional profiles outline the various amounts of experience I have gained over the years including working as a Software Engineer at Camgian, interning in the Technology division at Dillard's HQ, and developing several personal projects using React and JS.",
+    "contactmessage": "Reach out any time as I love talking about my experiences and current interests in technology.",
     "email": "brandon@claggi.com",
     "phone": "+1 662 549 3074",
     "address": {
@@ -40,13 +40,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "From Full Stack development to project planning and running scrum meetings, my Software experience is well-rounded.",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Mississippi State University",
+        "degree": "Bachelor's Degree, Software Engineer",
+        "graduated": "November 2020",
+        "description": "Graduated with 3.7 GPA"
       }
     ],
     "work": [
@@ -89,10 +89,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
+        "title": "TradeWithMe",
+        "category": "ReactJS Web Application",
         "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "url": "https://github.com/brandonhenry/TradeWithMe"
       },
       {
         "title": "Robinhood Clone",
