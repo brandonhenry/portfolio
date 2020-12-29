@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Brandon Henry",
+    "occupation": "React / JavaScript / Java Developer",
+    "description": "Full Stack Developer with a BS in Software Engineering, 2020.",
+    "image": "pp.jpg",
+    "bio": "My name is Brandon Henry and I'm a Full Stack ReactJS Developer. I received my bachelors in Software Engineering in 2020 and have been developing for over 5 years. My various professional profiles outline the various amounts of experience I have gained over the years including working as a Software Engineer at Camgian, interning in the Technology division at Dillard's HQ, and developing several personal projects using React and JS.",
+    "contactmessage": "Reach out any time as I love talking about my experiences and current interests in technology.",
+    "email": "brandon@claggi.com",
+    "phone": "+1 662 549 3074",
+    "address": {
+      "street": "100 Charleston Dr.",
+      "city": "Starkville",
+      "state": "MS",
+      "zip": "39759"
+    },
+    "website": "http://www.thebrandonhenry.com",
+    "resumedownload": "https://drive.google.com/file/d/1YWk2BgBE0bM0JIUvbnT7_qQV2V-MCdRF/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/officialbhenry",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/the-brandon-henry/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/itsbhenry/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/brandonhenry/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "From Full Stack development to project planning and running scrum meetings, my Software experience is well-rounded.",
+    "education": [
+      {
+        "school": "Mississippi State University",
+        "degree": "Bachelor's Degree, Software Engineer",
+        "graduated": "November 2020",
+        "description": "Graduated with 3.7 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "JavaScript/Python Specialist",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "NazaWEb",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TradeWithMe",
+        "category": "ReactJS Web Application",
+        "image": "zoom.jpg",
+        "url": "https://github.com/brandonhenry/TradeWithMe"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
