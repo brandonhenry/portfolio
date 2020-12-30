@@ -2,7 +2,7 @@
   "main": {
     "name": "Brandon Henry",
     "occupation": "React, JavaScript, & Java Developer",
-    "description": "My expertise lies in Software Engineering and agile development cycles",
+    "description": "My expertise lies in Software Engineering and agile development life-cycles",
     "image": "pp.jpg",
     "bio": "My name is Brandon Henry and I'm a Full Stack React/JS Developer. I received my bachelors in Software Engineering in 2020 and have been developing for over 5 years. My professional profiles outline the various amounts of experience I have gained over the years including working as a Software Engineer at Camgian, interning in the Technology division at Dillard's HQ, and developing several personal projects using React and JS which you can find more about via my GitHub.",
     "contactmessage": "Reach out any time as I love talking about my experiences and current interests in technology.",
@@ -40,19 +40,21 @@
     ]
   },
   "resume": {
-    "skillmessage": "From Full Stack development to project planning and running scrum meetings, my Software experience is well-rounded.",
+    "skillmessage": "My skills range from quality assurance, integration testing, and agile development to specific technologies and frameworks such as JavaScript, NodeJS, ReactJS, and more.",
     "education": [
       {
         "school": "Mississippi State University",
         "degree": "Bachelor's Degree, Software Engineer",
         "graduated": "November 2020",
-        "description": "Graduated with 3.7 GPA. Studied core Software Engineer concepts including architecture, design, algorithms, data structures, databases, and more. Organizations include Theta Tau Professional Engineering Fraternity and Engineering Student Council."
+        "gpa": "3.7",
+        "description": "Studied core Software Engineer concepts including architecture, design, algorithms, data structures, databases, and more. Organizations include Theta Tau Professional Engineering Fraternity and Engineering Student Council."
       },
       {
         "school": "East Mississippi Community College",
         "degree": "Associates Degree, Computer Science",
         "graduated": "May 2017",
-        "description": "Graduated with 4.0 GPA."
+        "gpa": "4.0",
+        "description": "Graduated from the Honors College summa cum laude."
       }
     ],
     "work": [
@@ -60,19 +62,29 @@
         "company": "Camgian",
         "title": "Software Engineer",
         "years": "Jan 2018 - Dec 2019",
-        "description": "Gained experience with Quality Assurance testing with both hardware and software. Helped managed unit tests and ensure maximum code coverage. Completed robust outdoor testing.\n\nHelped maintain large Java codebases. Worked with multiple repositories and shared libraries. Utilized several project management utilities such as GitLab and JIRA. Also learned several use cases for git and version control along with multiple commands for interacting with git repositories.\n\nLead developer in new Prowl camera technology. Designed and implemented the software architecture to support this new initiative. Gained experience communicating between software, firmware, and hardware teams. Helped support testing and demoing of the product to investors.\n\nLearned several important concepts surrounding programming including memory management, software development workflows (including scrum and sprint cycles), threading/concurrency, and desktop/web GUI development."
+        "description": [
+          "During my time at Camgian I gained experience with Quality Assurance testing with both hardware and software. Many sprint cycles I created unit tests to ensure maximum code coverage. I completed robust outdoor testing and helped maintain large Java codebases working with multiple repositories and shared libraries.",
+          "Day to day included working with several project management utilities such as GitLab and JIRA. Additionally, I learned several use cases for git and version control along with multiple commands for interacting with git repositories.",
+          "Lead developer in new Prowl camera technology. Not only did I design and implemented the software architecture to support this new initiative. Gained experience communicating between software, firmware, and hardware teams. Helped support testing and demoing of the product to investors.\n\nLearned several important concepts surrounding programming including memory management, software development workflows (including scrum and sprint cycles), threading/concurrency, and desktop/web GUI development."
+          ]
       },
       {
         "company": "Dillard's Technology",
         "title": "Developer Intern",
         "years": "May 2018 - Aug 2018",
-        "description": "Learned about coding opportunities in supply chain business operations. Completed summer internship program at top of the class. Throughout the summer internship, I was able to tackle and understand several programming languages including Java, Javascript, Groovy, Python, COBOL, and SQL.\n\nObserved corporate-level coding structure and codebases. Interacted with several experienced developers and managers, gaining knowledge in areas such as scripting, inventory management, team management, business relations, and internal corporate tech operations.\n"
+        "description": [
+          "Learned about coding opportunities in supply chain business operations. Completed summer internship program at top of the class. Throughout the summer internship, I was able to tackle and understand several programming languages including Java, Javascript, Groovy, Python, COBOL, and SQL.\n\nObserved corporate-level coding structure and codebases.",
+          "Interacted with several experienced developers and managers, gaining knowledge in areas such as scripting, inventory management, team management, business relations, and internal corporate tech operations.\n"
+          ]
       },
       {
         "company": "Mississippi State University",
         "title": "Teaching Assistant",
         "years": "May 2018 - Aug 2018",
-        "description": ""
+        "description": [
+          "Teaching Assistant to Professor Henderson at Mississippi State University for CSE-1233 - Computer Programming with C.",
+          "Offering tutoring to students as well as grading homework assignments, quizzes, and tests."
+        ]
       }
     ],
     "skills": [
@@ -103,6 +115,7 @@
       {
         "title": "TradeWithMe",
         "category": "ReactJS Web Application",
+        "description": "TradeWithMe is a trading assistant for beginner and advanced stock market traders.",
         "image": "TradeWithMe.png",
         "url": "https://github.com/brandonhenry/TradeWithMe"
       }
@@ -111,8 +124,9 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Brandon is a bright mind and great worker.",
+        "position": "Senior Software Engineer at Camgian",
+        "user": "James Kemp"
       }
     ]
   }
