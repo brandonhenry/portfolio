@@ -47,14 +47,14 @@
         "degree": "Bachelor's Degree, Software Engineer",
         "graduated": "November 2020",
         "gpa": "3.7",
-        "description": "Studied core Software Engineer concepts including architecture, design, algorithms, data structures, databases, and more. Organizations include Theta Tau Professional Engineering Fraternity and Engineering Student Council."
+        "description": "Studied core Software Engineer concepts including architecture, design, algorithms, data structures, databases, and more. Organizations include Theta Tau Professional Engineering Fraternity, CSE Department ambassador, and Engineering Student Council."
       },
       {
         "school": "East Mississippi Community College",
         "degree": "Associates Degree, Computer Science",
         "graduated": "May 2017",
         "gpa": "4.0",
-        "description": "Graduated from the Honors College summa cum laude."
+        "description": "Graduated from the Honors College summa cum laude. Organizations include Phi Theta Kappa."
       }
     ],
     "work": [
@@ -63,9 +63,9 @@
         "title": "Software Engineer",
         "years": "Jan 2018 - Dec 2019",
         "description": [
-          "During my time at Camgian I gained experience with Quality Assurance testing with both hardware and software. Many sprint cycles I created unit tests to ensure maximum code coverage. I completed robust outdoor testing and helped maintain large Java codebases working with multiple repositories and shared libraries.",
+          "During my time at Camgian I gained experience in Quality Assurance testing with both hardware and software. Every sprint cycle, I created unit tests to ensure maximum code coverage. I completed robust outdoor testing and helped maintain large Java codebases working with multiple repositories and shared libraries.",
           "Day to day included working with several project management utilities such as GitLab and JIRA. Additionally, I learned several use cases for git and version control along with multiple commands for interacting with git repositories.",
-          "Lead developer in new Prowl camera technology. Not only did I design and implemented the software architecture to support this new initiative. Gained experience communicating between software, firmware, and hardware teams. Helped support testing and demoing of the product to investors.\n\nLearned several important concepts surrounding programming including memory management, software development workflows (including scrum and sprint cycles), threading/concurrency, and desktop/web GUI development."
+          "I was the lead developer in new Prowl camera technology. Not only did I design and implement the software architecture to support this new initiative, but I gained experience communicating between software, firmware, and hardware teams. In addition, I helped support testing and demoing of the product to investors.\n\nThis taught me several important concepts surrounding programming including memory management, software development workflows (including scrum and sprint cycles), threading/concurrency, and desktop/web GUI development."
           ]
       },
       {
@@ -73,8 +73,8 @@
         "title": "Developer Intern",
         "years": "May 2018 - Aug 2018",
         "description": [
-          "Learned about coding opportunities in supply chain business operations. Completed summer internship program at top of the class. Throughout the summer internship, I was able to tackle and understand several programming languages including Java, Javascript, Groovy, Python, COBOL, and SQL.\n\nObserved corporate-level coding structure and codebases.",
-          "Interacted with several experienced developers and managers, gaining knowledge in areas such as scripting, inventory management, team management, business relations, and internal corporate tech operations.\n"
+          "Dillard's taught me about coding opportunities in supply chain business operations. I completed my summer internship program at the top of the class, receiving high remarks. Throughout the summer internship, I was able to tackle and understand several programming languages including Java, Javascript, Groovy, Python, COBOL, and SQL.\n\n I was also able to observe corporate-level coding structure and codebases.",
+          "During my time there, I interacted with several experienced developers and managers, gaining knowledge in areas such as scripting, inventory management, team management, business relations, and internal corporate tech operations.\n"
           ]
       },
       {
@@ -82,8 +82,8 @@
         "title": "Teaching Assistant",
         "years": "May 2018 - Aug 2018",
         "description": [
-          "Teaching Assistant to Professor Henderson at Mississippi State University for CSE-1233 - Computer Programming with C.",
-          "Offering tutoring to students as well as grading homework assignments, quizzes, and tests."
+          "While taking classes, I was a Teaching Assistant to Professor Henderson at Mississippi State University for CSE-1233 - Computer Programming with C.",
+          "I offered tutoring to students as well as graded homework assignments, quizzes, and tests."
         ]
       }
     ],
