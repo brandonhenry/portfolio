@@ -14,6 +14,7 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var why = this.props.data.why;
     }
 
     return (
@@ -26,6 +27,10 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
+             <h2>Why Me</h2>
+
+             <p>{why}</p>
+
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
