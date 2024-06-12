@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Brandon Henry",
-    "occupation": "React, JavaScript, & Java Developer",
-    "description": "My expertise lies in Software Engineering and agile development life-cycles",
+    "occupation": "Full Stack Developer",
+    "description": "My expertise lies in Software Engineering and web development life-cycles",
     "image": "pp.jpg",
-    "bio": "My name is Brandon Henry and I'm a Full Stack React/JS Developer. I received my bachelors in Software Engineering in 2020 and have been developing for over 5 years. My professional profiles outline the various amounts of experience I have gained over the years including working as a Software Engineer at Camgian, interning in the Technology division at Dillard's HQ, and developing several personal projects using React and JS which you can find more about via my GitHub.",
+    "bio": "My name is Brandon Henry and I'm a Full Stack React/JS Developer. I received my bachelors in Software Engineering in 2020 and have been developing for over 9 years. My professional profiles outline the various amounts of experience I have gained over the years including working as a Software Engineer at Camgian, interning in the Technology division at Dillard's HQ, and improving the website design of top brands like Mattel and Doordash through content rate optimization.",
     "why": "I am a loyal, hard-working, fast learner looking to build my career through value. Taking pride in my work, I will go the extra mile to accomplish goals and make progress despite the obstacle. In addition, I have professional software engineering experience and a living portfolio to show my passion. My communication skills have been sharpened from my professional experience, my vast number of collaborative projects, and running my own businesses. I value company culture and look to respect my coworkers. In short, I hope to provide value to my next company for years to come.",
     "contactmessage": "Reach out any time as I love talking about my experiences and current interests in technology.",
     "email": "brandon@claggi.com",
     "phone": "+1 662 549 3074",
     "address": {
       "street": "100 Charleston Dr.",
-      "city": "Starkville",
-      "state": "MS",
+      "city": "Houston",
+      "state": "TX",
       "zip": "39759"
     },
     "website": "http://www.thebrandonhenry.com",
@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My skills range from quality assurance, integration testing, and agile development to specific technologies and frameworks such as JavaScript, NodeJS, ReactJS, and more.",
+    "skillmessage": "My skills are dialed towards web development best practices and areas that ensure a well developed product and develerable. Ex. Typescript, NodeJS, React, Google Analytics 4, and more.",
     "education": [
       {
         "school": "Mississippi State University",
@@ -60,9 +60,19 @@
     ],
     "work": [
       {
+        "company": "Cro Metrics",
+        "title": "Lead Experiment Engineer",
+        "years": "Jan 2020 - Ongoing (5 years)",
+        "description": [
+          "As a Lead Experiment Engineer at Cro Metrics, I led initiatives to drive company growth, communicating with external and internal stakeholders to improve the KPI of our clients. In addition to gaining experience leading a team, I introduced instrumental tooling to help align company-wide objectives (such as Chrome extensions / process changes), mentored junior developers, and improved the company's overall development workflow. I also worked with several clients to improve their website's performance and user experience through A/B testing and data analysis.",
+          "Day to day included working with several CRO platforms such as Optimizely, VWO, Google Optimize, Dynamic Yield, and more (cutting edge meant we explored all platforms). Additionally, I would lead trainings, engineering process discussions, and mentor cross team to ensure my non-technical peers were equipped to have conversations with our clients. Lastly, there was always a big focus on documentation and our role in keeping docs up to date and reliable for new hires.",
+          "Throughout my years at Cro Metrics, I have gained a wide range of experience in technologies from AWS to Google's BigQuery. Working with industry leading companies has offered a wide range of tooling exposure including but not limited to: Amplitude, Google Analytics, Drift, FullStory, Contentful, Salesforce, Jira, Confluence, Notion, and more. Furthermore, my foundational programming knowledge has solidifed as we primarily worked in JavaScript / Typescript, HTML, CSS. It was vital to be up-to-date on web standards such as Website Optimization (PageSpeed insights)."
+          ]
+      },
+      {
         "company": "Camgian",
         "title": "Software Engineer",
-        "years": "Jan 2018 - Aug 2019",
+        "years": "Jan 2018 - Dec 2020 (2 years)",
         "description": [
           "During my time at Camgian I gained experience in Quality Assurance testing with both hardware and software. Every sprint cycle, I created unit tests to ensure maximum code coverage. I completed robust outdoor testing and helped maintain large Java codebases working with multiple repositories and shared libraries.",
           "Day to day included working with several project management utilities such as GitLab and JIRA. Additionally, I learned several use cases for git and version control along with multiple commands for interacting with git repositories.",
@@ -72,7 +82,7 @@
       {
         "company": "Dillard's Technology",
         "title": "Developer Intern",
-        "years": "May 2018 - Aug 2018",
+        "years": "May 2018 - Aug 2018 (4 months)",
         "description": [
           "Dillard's taught me about coding opportunities in supply chain business operations. I completed my summer internship program at the top of the class, receiving high remarks. Throughout the summer internship, I was able to tackle and understand several programming languages including Java, Javascript, Groovy, Python, COBOL, and SQL.\n\n I was also able to observe corporate-level coding structure and codebases.",
           "During my time there, I interacted with several experienced developers and managers, gaining knowledge in areas such as scripting, inventory management, team management, business relations, and internal corporate tech operations.\n"
@@ -81,7 +91,7 @@
       {
         "company": "Mississippi State University",
         "title": "Teaching Assistant",
-        "years": "Aug 2019 - Dec 2019",
+        "years": "Aug 2019 - Dec 2019 (5 months)",
         "description": [
           "While taking classes, I was a Teaching Assistant to Professor Henderson at Mississippi State University for CSE-1233 - Computer Programming with C.",
           "I offered tutoring to students as well as graded homework assignments, quizzes, and tests."
@@ -90,24 +100,24 @@
     ],
     "skills": [
       {
-        "name": "ReactJS",
+        "name": "Typescript",
         "level": "100%"
       },
       {
-        "name": "Java",
+        "name": "Node",
         "level": "95%"
       },
       {
         "name": "Git",
-        "level": "75%"
+        "level": "86%"
       },
       {
         "name": "JavaScript",
         "level": "100%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Analytics",
+        "level": "85%"
       }
     ]
   },
